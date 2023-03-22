@@ -1,0 +1,400 @@
+from collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac"from collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # True) # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Trufrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Trueefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # Truefrom collections import Counter
+def anagrams(str1, str2):
+    return Counter(str1) == Counter(str2)
+anagrams("abc1", "1bac") # True
